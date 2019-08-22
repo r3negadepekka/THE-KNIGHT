@@ -1,6 +1,0 @@
-echo "# THE-KNIGHT" >> the knight
-git init
-git add README.md
-git commit -m "first commit"
-git remote add origin https://github.com/r3negadepekka/THE-KNIGHT.git
-git push -u origin master
